@@ -4,6 +4,7 @@ h1 {
     color: blue;
     font-family: cursive;
     margin-top: 0px;
+    margin-bottom: 0px;
     font-weight: lighter;
 }
 #tagline{
@@ -18,7 +19,7 @@ font-family: sans-serif;
     font-size: 80%;
     background:blue;
     color:white;     
-    margin: 10px 10px 10px 10px;      
+    margin: 5px 10px 0px 10px;      
     font-family: Arial, Helvetica, sans-serif;
     border-color: whitesmoke;
     position: relative ;
